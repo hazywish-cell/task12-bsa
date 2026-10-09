@@ -6,7 +6,7 @@ An end-to-end exploratory data analysis (EDA) and interactive dashboard built us
 
 ## 🔗 Project Links
 
-* **Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/priya.sree4870/viz/task12_17915357167170/Dashboard1#1) 👈 *(Replace with your link)*
+* **Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/priya.sree4870/viz/task12_17915357167170/Dashboard1#1) 👈
 
 ---
 
